@@ -4,7 +4,7 @@ import telebot
 import re
 
 # Initialize the bot
-BOT_TOKEN = '5823631337:AAH8qPNWbX8DMFaJAGyXsR2LUAkvuRKdMX0'
+BOT_TOKEN = ''
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
